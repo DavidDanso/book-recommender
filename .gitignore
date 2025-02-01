@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# remove this files from git
+books_cleaned.csv
+tagged_description.txt
+
 # C extensions
 *.so
 
